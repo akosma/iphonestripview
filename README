@@ -1,0 +1,4 @@
+Sample project using a UIKit-based strip component, like those featured in the LinkedIn and Facebook applications.
+
+To use it, just add it to your view as any other view, and implement the StripViewDelegate protocol to get notified about choices done by the user.
+
